@@ -2,13 +2,13 @@
 <h3 align="center">Software Engineering Student (RPL) | Web & App Developer</h3>
 
 <p align="center">
-  <a href="https://instagram.com/username_kamu" target="_blank">
+  <a href="https://instagram.com/knalpotresinkt" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.tiktok.com/@username_kamu" target="_blank">
+  <a href="https://www.tiktok.com/@gkresinkt" target="_blank">
     <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
-  <a href="https://www.linkedin.com/in/username_kamu" target="_blank">
+  <a href="https://www.linkedin.com/in/randika-fauzy-380487449" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
